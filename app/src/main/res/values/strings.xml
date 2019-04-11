@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor</string>
+    <string name="sensor_name">Name:</string>
+    <string name="sensor_version">Version:</string>
+    <string name="sensor_resolution">Resolution:</string>
+    <string name="sensor_vendor">Vendor:</string>
+</resources>
